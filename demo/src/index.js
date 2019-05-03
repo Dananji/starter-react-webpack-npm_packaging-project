@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import Root from '../../src';
 
 const props = {
-  someProp: 'I am the value for some prop',
+  src: 'https://i.ytimg.com/vi/xCGPPimXgJU/maxresdefault.jpg',
   anotherProp: 123456789
 };
 
